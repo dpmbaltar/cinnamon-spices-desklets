@@ -1,8 +1,10 @@
 # Translatable templates
 [Desklets](../README.md) &#187; **Icelandic (is)**
-<br><sub>**1 &#8594; 1 templates**</sub>
+<br><sub>**1 &#8594; 3 templates**</sub>
 
 Desklets UUID | Length | Status | Untranslated
 ------------|:------:|:------:|:-----------:
+[analog-clock@cobinja.de](../desklets-status/analog-clock@cobinja.de/README.md) | 8 | ![0%](http://progressed.io/bar/0) | 8
 [bbcwx@oak-wood.co.uk](../desklets-status/bbcwx@oak-wood.co.uk/README.md) | [253](../desklets-status/bbcwx@oak-wood.co.uk/po/is.po) | ![96%](http://progressed.io/bar/96) | [11](../desklets-status/bbcwx@oak-wood.co.uk/untranslated-po/is.md)
-**Overall statistics:** | **253** | ![96%](http://progressed.io/bar/96) | **11**
+[simple-system-monitor@ariel](../desklets-status/simple-system-monitor@ariel/README.md) | 7 | ![0%](http://progressed.io/bar/0) | 7
+**Overall statistics:** | **268** | ![90%](http://progressed.io/bar/90) | **26**
