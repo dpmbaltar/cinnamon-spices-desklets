@@ -7,7 +7,7 @@ Desklets UUID | Length | Status | Untranslated
 [analog-clock@cobinja.de](../desklets-status/analog-clock@cobinja.de/README.md) | 8 | ![0%](http://progressed.io/bar/0) | 8
 [battery@schorschii](../desklets-status/battery@schorschii/README.md) | 27 | ![0%](http://progressed.io/bar/0) | 27
 [bbcwx@oak-wood.co.uk](../desklets-status/bbcwx@oak-wood.co.uk/README.md) | 253 | ![0%](http://progressed.io/bar/0) | 253
-[binaryclock2@euxneks](../desklets-status/binaryclock2@euxneks/README.md) | 13 | ![0%](http://progressed.io/bar/0) | 13
+[binaryclock2@euxneks](../desklets-status/binaryclock2@euxneks/README.md) | 14 | ![0%](http://progressed.io/bar/0) | 14
 [calculator@scollins](../desklets-status/calculator@scollins/README.md) | 26 | ![0%](http://progressed.io/bar/0) | 26
 [clock@schorschii](../desklets-status/clock@schorschii/README.md) | 32 | ![0%](http://progressed.io/bar/0) | 32
 [powerUsage@hosvir.com](../desklets-status/powerUsage@hosvir.com/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
@@ -16,4 +16,4 @@ Desklets UUID | Length | Status | Untranslated
 [soundBox@scollins](../desklets-status/soundBox@scollins/README.md) | 53 | ![0%](http://progressed.io/bar/0) | 53
 [temperature@swalladge](../desklets-status/temperature@swalladge/README.md) | 8 | ![0%](http://progressed.io/bar/0) | 8
 [xkcd@rjanja](../desklets-status/xkcd@rjanja/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
-**Overall statistics:** | **447** | ![0%](http://progressed.io/bar/0) | **447**
+**Overall statistics:** | **448** | ![0%](http://progressed.io/bar/0) | **448**
