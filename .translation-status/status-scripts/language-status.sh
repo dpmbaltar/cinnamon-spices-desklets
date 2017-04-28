@@ -81,7 +81,7 @@ do
 		fi
 		
 		# link untranslated to untranslated-po file if exists
-		poUntranslatedFile=$spicesStatusDir/$spicesUUID/untranslated-po/$languageID.md
+		poUntranslatedFile=$spicesStatusDir/$spicesUUID/untranslated-po/$languageID.csv
 		if [ -f $poUntranslatedFile ]; then
 			printUntranslated="[$untranslated](../$poUntranslatedFile)"
 		else

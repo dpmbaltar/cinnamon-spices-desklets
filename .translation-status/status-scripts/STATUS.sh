@@ -14,7 +14,7 @@ rm ../README.md
 ./spices-status.sh
 
 # testversion?!
-./untranslatedpo2md.sh
+./untranslatedpo2csv.sh
 
 # next execute language-status script, because it depends on outputs of applet-status script
 ./language-status.sh

@@ -116,7 +116,7 @@ do
 			percentage=`echo "scale=2; ($translatedNumber - $untranslatedNumber) * 100 / $translatedNumber" | bc`
 			percentage=$(python -c "zahl=round($percentage); print zahl" | cut -f1 -d '.')  
 			# fill table with calculated infos
-    		echo "[$languageNAME](../../language-status/$languageID.md) | [$languageID.po](po/$languageID.po) | ![$percentage%](http://progressed.io/bar/$percentage) | [$untranslatedNumber]($untranslatedPO/$languageID.md)" >> $README
+    		echo "[$languageNAME](../../language-status/$languageID.md) | [$languageID.po](po/$languageID.po) | ![$percentage%](http://progressed.io/bar/$percentage) | [$untranslatedNumber]($untranslatedPO/$languageID.csv)" >> $README
 		fi
 	done < $TMPpoFiles
 	
