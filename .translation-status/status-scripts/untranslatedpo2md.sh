@@ -23,7 +23,9 @@ do
 		do
 			# get languageID
 			languageID=$(echo "$poFile" | cut -f4 -d '/' | cut -f1 -d '.')
+			# remove linebreaks in msgid, msgid_plural is shown but not counted as untranslated
 			(msgattrib --no-wrap $poFile | grep "msgid" | nl -v 0 -n rn -w 8 -b p"msgid ") > $untranslatedDir/$languageID.md
+			# remove "msgid" and "-signs
 			sed -i '/msgid ""/d' $untranslatedDir/$languageID.md 
 			sed -i 's/msgid //g' $untranslatedDir/$languageID.md
 			sed -i 's/"//g' $untranslatedDir/$languageID.md
