@@ -17,7 +17,7 @@ Language | ID.po | Status | Untranslated
 [Estonian](../../language-status/et.md) | [et.po](po/et.po) | ![57%](http://progressed.io/bar/57) | [108](untranslated-po/et.md)
 [Finnish](../../language-status/fi.md) | [fi.po](po/fi.po) | ![98%](http://progressed.io/bar/98) | [4](untranslated-po/fi.md)
 [French](../../language-status/fr.md) | [fr.po](po/fr.po) | ![99%](http://progressed.io/bar/99) | [2](untranslated-po/fr.md)
-[German](../../language-status/de.md) | [de.po](po/de.po) | ![99%](http://progressed.io/bar/99) | [3](untranslated-po/de.md)
+[German](../../language-status/de.md) | [de.po](po/de.po) | ![100%](http://progressed.io/bar/100) | 0
 [Greek](../../language-status/el.md) | [el.po](po/el.po) | ![98%](http://progressed.io/bar/98) | [4](untranslated-po/el.md)
 [Hungarian](../../language-status/hu.md) | [hu.po](po/hu.po) | ![98%](http://progressed.io/bar/98) | [4](untranslated-po/hu.md)
 [Icelandic](../../language-status/is.md) | [is.po](po/is.po) | ![96%](http://progressed.io/bar/96) | [11](untranslated-po/is.md)
