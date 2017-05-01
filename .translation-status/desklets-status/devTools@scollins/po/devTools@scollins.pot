@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-26 10:56+0800\n"
+"POT-Creation-Date: 2017-04-30 13:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 
 #: desklet.js:46
 msgid "Applet Settings"
@@ -86,7 +86,7 @@ msgstr ""
 msgid "Run command line"
 msgstr ""
 
-#: desklet.js:451 extensions.js:149 extensions.js:167 inspect.js:344
+#: desklet.js:451 extensions.js:162 extensions.js:180 inspect.js:344
 #: inspect.js:530 windows.js:88
 msgid "Inspect"
 msgstr ""
@@ -147,57 +147,73 @@ msgstr ""
 msgid "Copy"
 msgstr ""
 
-#: extensions.js:44
+#: extensions.js:56
 msgid "Infinite"
 msgstr ""
 
-#: extensions.js:80 inspect.js:478
+#: extensions.js:80
+msgid "Applet"
+msgstr ""
+
+#: extensions.js:80
+msgid "Desklet"
+msgstr ""
+
+#: extensions.js:80
+msgid "Extension"
+msgstr ""
+
+#: extensions.js:80
+msgid "Search providers"
+msgstr ""
+
+#: extensions.js:93 inspect.js:478
 msgid "Name"
 msgstr ""
 
-#: extensions.js:85
+#: extensions.js:98
 msgid "Description"
 msgstr ""
 
-#: extensions.js:91
+#: extensions.js:104
 msgid "Path"
 msgstr ""
 
-#: extensions.js:96 terminal.js:53
+#: extensions.js:109 terminal.js:53
 msgid "Status"
 msgstr ""
 
-#: extensions.js:117
+#: extensions.js:130
 msgid "Reload"
 msgstr ""
 
-#: extensions.js:122 extensions.js:154
+#: extensions.js:135 extensions.js:167
 msgid "Remove"
 msgstr ""
 
-#: extensions.js:128
+#: extensions.js:141
 msgid "Instances"
 msgstr ""
 
-#: extensions.js:128
+#: extensions.js:141
 msgid "of"
 msgstr ""
 
-#: extensions.js:144 extensions.js:162
+#: extensions.js:157 extensions.js:175
 msgid "Highlight"
 msgstr ""
 
-#: extensions.js:175
+#: extensions.js:188
 msgid "Settings"
 msgstr ""
 
-#: extensions.js:249
+#: extensions.js:262
 msgid "Extensions"
 msgstr ""
 
-#. devTools@scollins->settings-schema.json->collapsedStartState->options
-#: extensions.js:268
-msgid "Show"
+#: extensions.js:282
+#, c-format
+msgid "Show %s"
 msgstr ""
 
 #: inspect.js:119
@@ -323,7 +339,7 @@ msgid "Style"
 msgstr ""
 
 #: sandbox.js:174
-msgid "Load currnet stylesheet"
+msgid "Load current stylesheet"
 msgstr ""
 
 #: sandbox.js:198
@@ -358,6 +374,10 @@ msgstr ""
 msgid "Run"
 msgstr ""
 
+#: windows.js:23 windows.js:125
+msgid "all"
+msgstr ""
+
 #: windows.js:94
 msgid "Switch to"
 msgstr ""
@@ -368,6 +388,10 @@ msgstr ""
 
 #: windows.js:143
 msgid "Windows"
+msgstr ""
+
+#. devTools@scollins->metadata.json->name
+msgid "Developer's Tools"
 msgstr ""
 
 #. devTools@scollins->metadata.json->contributors
@@ -381,10 +405,6 @@ msgid ""
 "restarting Cinnamon."
 msgstr ""
 
-#. devTools@scollins->metadata.json->name
-msgid "Developer's Tools"
-msgstr ""
-
 #. devTools@scollins->metadata.json->description
 msgid "A desklet for troubleshooting and developing in the Cinnamon UI"
 msgstr ""
@@ -395,6 +415,10 @@ msgstr ""
 
 #. devTools@scollins->settings-schema.json->collapsedStartState->options
 msgid "Remember Previous State"
+msgstr ""
+
+#. devTools@scollins->settings-schema.json->collapsedStartState->options
+msgid "Show"
 msgstr ""
 
 #. devTools@scollins->settings-schema.json->collapsed->description

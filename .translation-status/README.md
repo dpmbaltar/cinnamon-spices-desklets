@@ -3,34 +3,34 @@
 
 Language | ID | Status | Untranslated
 ---------|:--:|:------:|:-----------:
-[Armenian](language-status/hy.md) | hy |  ![31%](http://progressed.io/bar/31) | 420
-[Basque](language-status/eu.md) | eu |  ![42%](http://progressed.io/bar/42) | 352
-[Brazilian Portuguese](language-status/pt_BR.md) | pt_BR |  ![41%](http://progressed.io/bar/41) | 355
-[Bulgarian](language-status/bg.md) | bg |  ![41%](http://progressed.io/bar/41) | 356
-[Catalan](language-status/ca.md) | ca |  ![41%](http://progressed.io/bar/41) | 356
-[Chinese (Simplified)](language-status/zh_CN.md) | zh_CN |  ![99%](http://progressed.io/bar/99) | 8
-[Croatian](language-status/hr.md) | hr |  ![42%](http://progressed.io/bar/42) | 352
-[Czech](language-status/cs.md) | cs |  ![20%](http://progressed.io/bar/20) | 483
-[Danish](language-status/da.md) | da |  ![41%](http://progressed.io/bar/41) | 356
-[Dutch](language-status/nl.md) | nl |  ![41%](http://progressed.io/bar/41) | 357
-[English (United Kingdom)](language-status/en_GB.md) | en_GB |  ![42%](http://progressed.io/bar/42) | 352
-[Estonian](language-status/et.md) | et |  ![24%](http://progressed.io/bar/24) | 460
-[Finnish](language-status/fi.md) | fi |  ![41%](http://progressed.io/bar/41) | 356
-[French](language-status/fr.md) | fr |  ![41%](http://progressed.io/bar/41) | 354
-[German](language-status/de.md) | de |  ![73%](http://progressed.io/bar/73) | 164
-[Greek](language-status/el.md) | el |  ![41%](http://progressed.io/bar/41) | 356
-[Hungarian](language-status/hu.md) | hu |  ![41%](http://progressed.io/bar/41) | 356
-[Icelandic](language-status/is.md) | is |  ![40%](http://progressed.io/bar/40) | 363
-[Italian](language-status/it.md) | it |  ![41%](http://progressed.io/bar/41) | 355
-[Polish](language-status/pl.md) | pl |  ![41%](http://progressed.io/bar/41) | 356
-[Portuguese](language-status/pt.md) | pt |  ![42%](http://progressed.io/bar/42) | 352
-[Romanian](language-status/ro.md) | ro |  ![41%](http://progressed.io/bar/41) | 356
-[Russian](language-status/ru.md) | ru |  ![42%](http://progressed.io/bar/42) | 353
-[Slovak](language-status/sk.md) | sk |  ![39%](http://progressed.io/bar/39) | 372
-[Slovenian](language-status/sl.md) | sl |  ![41%](http://progressed.io/bar/41) | 357
-[Spanish](language-status/es.md) | es |  ![41%](http://progressed.io/bar/41) | 356
-[Swedish](language-status/sv.md) | sv |  ![43%](http://progressed.io/bar/43) | 344
-[Tamil](language-status/ta.md) | ta |  ![42%](http://progressed.io/bar/42) | 352
-[Turkish](language-status/tr.md) | tr |  ![38%](http://progressed.io/bar/38) | 377
-[Ukrainian](language-status/uk.md) | uk |  ![41%](http://progressed.io/bar/41) | 357
-[Vietnamese](language-status/vi.md) | vi |  ![41%](http://progressed.io/bar/41) | 356
+[Armenian](language-status/hy.md) | hy |  ![27%](http://progressed.io/bar/27) | 505
+[Basque](language-status/eu.md) | eu |  ![37%](http://progressed.io/bar/37) | 437
+[Brazilian Portuguese](language-status/pt_BR.md) | pt_BR |  ![37%](http://progressed.io/bar/37) | 434
+[Bulgarian](language-status/bg.md) | bg |  ![36%](http://progressed.io/bar/36) | 441
+[Catalan](language-status/ca.md) | ca |  ![36%](http://progressed.io/bar/36) | 441
+[Chinese (Simplified)](language-status/zh_CN.md) | zh_CN |  ![96%](http://progressed.io/bar/96) | 29
+[Croatian](language-status/hr.md) | hr |  ![38%](http://progressed.io/bar/38) | 429
+[Czech](language-status/cs.md) | cs |  ![18%](http://progressed.io/bar/18) | 568
+[Danish](language-status/da.md) | da |  ![36%](http://progressed.io/bar/36) | 441
+[Dutch](language-status/nl.md) | nl |  ![36%](http://progressed.io/bar/36) | 442
+[English (United Kingdom)](language-status/en_GB.md) | en_GB |  ![37%](http://progressed.io/bar/37) | 437
+[Estonian](language-status/et.md) | et |  ![21%](http://progressed.io/bar/21) | 545
+[Finnish](language-status/fi.md) | fi |  ![36%](http://progressed.io/bar/36) | 441
+[French](language-status/fr.md) | fr |  ![36%](http://progressed.io/bar/36) | 439
+[German](language-status/de.md) | de |  ![96%](http://progressed.io/bar/96) | 26
+[Greek](language-status/el.md) | el |  ![36%](http://progressed.io/bar/36) | 441
+[Hungarian](language-status/hu.md) | hu |  ![36%](http://progressed.io/bar/36) | 441
+[Icelandic](language-status/is.md) | is |  ![35%](http://progressed.io/bar/35) | 448
+[Italian](language-status/it.md) | it |  ![36%](http://progressed.io/bar/36) | 440
+[Polish](language-status/pl.md) | pl |  ![36%](http://progressed.io/bar/36) | 441
+[Portuguese](language-status/pt.md) | pt |  ![37%](http://progressed.io/bar/37) | 437
+[Romanian](language-status/ro.md) | ro |  ![36%](http://progressed.io/bar/36) | 441
+[Russian](language-status/ru.md) | ru |  ![37%](http://progressed.io/bar/37) | 438
+[Slovak](language-status/sk.md) | sk |  ![34%](http://progressed.io/bar/34) | 457
+[Slovenian](language-status/sl.md) | sl |  ![36%](http://progressed.io/bar/36) | 442
+[Spanish](language-status/es.md) | es |  ![36%](http://progressed.io/bar/36) | 441
+[Swedish](language-status/sv.md) | sv |  ![38%](http://progressed.io/bar/38) | 429
+[Tamil](language-status/ta.md) | ta |  ![37%](http://progressed.io/bar/37) | 437
+[Turkish](language-status/tr.md) | tr |  ![33%](http://progressed.io/bar/33) | 462
+[Ukrainian](language-status/uk.md) | uk |  ![36%](http://progressed.io/bar/36) | 442
+[Vietnamese](language-status/vi.md) | vi |  ![36%](http://progressed.io/bar/36) | 441

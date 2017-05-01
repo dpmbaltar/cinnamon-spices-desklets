@@ -74,7 +74,7 @@ msgid ""
 msgstr ""
 
 #. clock@schorschii->settings-schema.json->head0->description
-msgid "Settings for clock@schorschii   (Version 1.1)"
+msgid "Settings for clock@schorschii"
 msgstr ""
 
 #. clock@schorschii->settings-schema.json->img-bg->description
@@ -156,4 +156,22 @@ msgstr ""
 msgid ""
 "Choose your own image for the hour hand. Should be as big as the background "
 "image."
+msgstr ""
+
+msgid "Clock style"
+msgstr ""
+
+msgid "Custom images (available if clock style is set to 'custom')"
+msgstr ""
+
+#. Clock design - light
+msgid "Light"
+msgstr ""
+
+#. Clock design - dark
+msgid "Dark"
+msgstr ""
+
+#. Clock design - use custom images
+msgid "Custom"
 msgstr ""
