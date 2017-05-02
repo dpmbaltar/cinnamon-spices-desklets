@@ -1,6 +1,6 @@
 # Translatable templates
 [Desklets](../README.md) &#187; **German (de)**
-<br><sub>**1 &#8594; 24 templates**</sub>
+<br><sub>**1 &#8594; 25 templates**</sub>
 
 Desklets UUID | Length | Status | Untranslated
 ------------|:------:|:------:|:-----------:
@@ -27,5 +27,6 @@ Desklets UUID | Length | Status | Untranslated
 [stocks@fthuin](../desklets-status/stocks@fthuin/README.md) | [9](../desklets-status/stocks@fthuin/po/de.po) | ![100%](http://progressed.io/bar/100) |  0
 [temperature@swalladge](../desklets-status/temperature@swalladge/README.md) | [8](../desklets-status/temperature@swalladge/po/de.po) | ![100%](http://progressed.io/bar/100) |  0
 [TimeAndDate@nightflame](../desklets-status/TimeAndDate@nightflame/README.md) | [5](../desklets-status/TimeAndDate@nightflame/po/de.po) | ![100%](http://progressed.io/bar/100) |  0
+[WeatherUnderground@nightflame](../desklets-status/WeatherUnderground@nightflame/README.md) | 10 | ![0%](http://progressed.io/bar/0) | 10
 [xkcd@rjanja](../desklets-status/xkcd@rjanja/README.md) | [5](../desklets-status/xkcd@rjanja/po/de.po) | ![100%](http://progressed.io/bar/100) |  0
-**Overall statistics:** | **690** | ![96%](http://progressed.io/bar/96) | **26**
+**Overall statistics:** | **700** | ![95%](http://progressed.io/bar/95) | **36**

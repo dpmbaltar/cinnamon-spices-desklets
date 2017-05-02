@@ -1,6 +1,6 @@
 # Translatable templates
 [Desklets](../README.md) &#187; **Korean (ko)**
-<br><sub>**1 &#8594; 24 templates**</sub>
+<br><sub>**1 &#8594; 25 templates**</sub>
 
 Desklets UUID | Length | Status | Untranslated
 ------------|:------:|:------:|:-----------:
@@ -27,5 +27,6 @@ Desklets UUID | Length | Status | Untranslated
 [stocks@fthuin](../desklets-status/stocks@fthuin/README.md) | 9 | ![0%](http://progressed.io/bar/0) | 9
 [temperature@swalladge](../desklets-status/temperature@swalladge/README.md) | 8 | ![0%](http://progressed.io/bar/0) | 8
 [TimeAndDate@nightflame](../desklets-status/TimeAndDate@nightflame/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
+[WeatherUnderground@nightflame](../desklets-status/WeatherUnderground@nightflame/README.md) | 10 | ![0%](http://progressed.io/bar/0) | 10
 [xkcd@rjanja](../desklets-status/xkcd@rjanja/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
-**Overall statistics:** | **690** | ![0%](http://progressed.io/bar/0) | **690**
+**Overall statistics:** | **700** | ![0%](http://progressed.io/bar/0) | **700**
