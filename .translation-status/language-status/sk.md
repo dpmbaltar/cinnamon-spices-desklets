@@ -11,7 +11,7 @@ Desklets UUID | Length | Status | Untranslated
 [binaryclockdesklet@entelechy](../desklets-status/binaryclockdesklet@entelechy/README.md) | 12 | ![0%](http://progressed.io/bar/0) | 12
 [calculator@scollins](../desklets-status/calculator@scollins/README.md) | 26 | ![0%](http://progressed.io/bar/0) | 26
 [calendar@schorschii](../desklets-status/calendar@schorschii/README.md) | 51 | ![0%](http://progressed.io/bar/0) | 51
-[clock@schorschii](../desklets-status/clock@schorschii/README.md) | 37 | ![0%](http://progressed.io/bar/0) | 37
+[clock@schorschii](../desklets-status/clock@schorschii/README.md) | 39 | ![0%](http://progressed.io/bar/0) | 39
 [clockTow@armandobs14](../desklets-status/clockTow@armandobs14/README.md) | 3 | ![0%](http://progressed.io/bar/0) | 3
 [commandOfTheDay@logg](../desklets-status/commandOfTheDay@logg/README.md) | 6 | ![0%](http://progressed.io/bar/0) | 6
 [devTools@scollins](../desklets-status/devTools@scollins/README.md) | 103 | ![0%](http://progressed.io/bar/0) | 103
@@ -29,4 +29,4 @@ Desklets UUID | Length | Status | Untranslated
 [TimeAndDate@nightflame](../desklets-status/TimeAndDate@nightflame/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
 [WeatherUnderground@nightflame](../desklets-status/WeatherUnderground@nightflame/README.md) | 10 | ![0%](http://progressed.io/bar/0) | 10
 [xkcd@rjanja](../desklets-status/xkcd@rjanja/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
-**Overall statistics:** | **700** | ![33%](http://progressed.io/bar/33) | **467**
+**Overall statistics:** | **702** | ![33%](http://progressed.io/bar/33) | **469**

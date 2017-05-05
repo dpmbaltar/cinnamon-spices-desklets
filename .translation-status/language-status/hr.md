@@ -7,17 +7,17 @@ Desklets UUID | Length | Status | Untranslated
 [analog-clock@cobinja.de](../desklets-status/analog-clock@cobinja.de/README.md) | [8](../desklets-status/analog-clock@cobinja.de/po/hr.po) | ![100%](http://progressed.io/bar/100) |  0
 [battery@schorschii](../desklets-status/battery@schorschii/README.md) | 27 | ![0%](http://progressed.io/bar/0) | 27
 [bbcwx@oak-wood.co.uk](../desklets-status/bbcwx@oak-wood.co.uk/README.md) | [253](../desklets-status/bbcwx@oak-wood.co.uk/po/hr.po) | ![100%](http://progressed.io/bar/100) |  0
-[binaryclock2@euxneks](../desklets-status/binaryclock2@euxneks/README.md) | 14 | ![0%](http://progressed.io/bar/0) | 14
-[binaryclockdesklet@entelechy](../desklets-status/binaryclockdesklet@entelechy/README.md) | 12 | ![0%](http://progressed.io/bar/0) | 12
+[binaryclock2@euxneks](../desklets-status/binaryclock2@euxneks/README.md) | [14](../desklets-status/binaryclock2@euxneks/po/hr.po) | ![100%](http://progressed.io/bar/100) |  0
+[binaryclockdesklet@entelechy](../desklets-status/binaryclockdesklet@entelechy/README.md) | [12](../desklets-status/binaryclockdesklet@entelechy/po/hr.po) | ![100%](http://progressed.io/bar/100) |  0
 [calculator@scollins](../desklets-status/calculator@scollins/README.md) | 26 | ![0%](http://progressed.io/bar/0) | 26
 [calendar@schorschii](../desklets-status/calendar@schorschii/README.md) | 51 | ![0%](http://progressed.io/bar/0) | 51
-[clock@schorschii](../desklets-status/clock@schorschii/README.md) | 37 | ![0%](http://progressed.io/bar/0) | 37
+[clock@schorschii](../desklets-status/clock@schorschii/README.md) | [39](../desklets-status/clock@schorschii/po/hr.po) | ![87%](http://progressed.io/bar/87) | [5](../desklets-status/clock@schorschii/untranslated-po/hr.md)
 [clockTow@armandobs14](../desklets-status/clockTow@armandobs14/README.md) | 3 | ![0%](http://progressed.io/bar/0) | 3
 [commandOfTheDay@logg](../desklets-status/commandOfTheDay@logg/README.md) | 6 | ![0%](http://progressed.io/bar/0) | 6
 [devTools@scollins](../desklets-status/devTools@scollins/README.md) | 103 | ![0%](http://progressed.io/bar/0) | 103
 [jalalidesklet@30yavash.com](../desklets-status/jalalidesklet@30yavash.com/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
 [lemondenewspaper@fthuin](../desklets-status/lemondenewspaper@fthuin/README.md) | 13 | ![0%](http://progressed.io/bar/0) | 13
-[netusage@30yavash.com](../desklets-status/netusage@30yavash.com/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
+[netusage@30yavash.com](../desklets-status/netusage@30yavash.com/README.md) | [5](../desklets-status/netusage@30yavash.com/po/hr.po) | ![100%](http://progressed.io/bar/100) |  0
 [powerUsage@hosvir.com](../desklets-status/powerUsage@hosvir.com/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
 [quoteOfTheDay@tinnu](../desklets-status/quoteOfTheDay@tinnu/README.md) | 17 | ![0%](http://progressed.io/bar/0) | 17
 [reddit-reader@orangeshark](../desklets-status/reddit-reader@orangeshark/README.md) | 13 | ![0%](http://progressed.io/bar/0) | 13
@@ -29,4 +29,4 @@ Desklets UUID | Length | Status | Untranslated
 [TimeAndDate@nightflame](../desklets-status/TimeAndDate@nightflame/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
 [WeatherUnderground@nightflame](../desklets-status/WeatherUnderground@nightflame/README.md) | 10 | ![0%](http://progressed.io/bar/0) | 10
 [xkcd@rjanja](../desklets-status/xkcd@rjanja/README.md) | 5 | ![0%](http://progressed.io/bar/0) | 5
-**Overall statistics:** | **700** | ![37%](http://progressed.io/bar/37) | **439**
+**Overall statistics:** | **702** | ![46%](http://progressed.io/bar/46) | **376**

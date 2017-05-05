@@ -1,33 +1,35 @@
-# ANALOG CHRONOMETER TRANSLATIONS.
-# Copyright (C) 2017 FULL NAME
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# gogo <trebelnik2@gmail.com>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Analog Chronometer VERSION\n"
+"Project-Id-Version: clock@schorschii\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-04 18:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-05-05 13:41+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: \n"
+"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: desklet.js:190
 msgid "Clock"
-msgstr ""
+msgstr "Sat"
 
 #. clock@schorschii->settings-schema.json->head3->description
 msgid "Timezone"
-msgstr ""
+msgstr "Vremenska zona"
 
 #. clock@schorschii->settings-schema.json->style->description
 msgid "Clock style"
-msgstr ""
+msgstr "Izgled sata"
 
 #. clock@schorschii->settings-schema.json->style->tooltip
 msgid "Select the background graphic you would like to use."
@@ -35,39 +37,40 @@ msgstr ""
 
 #. clock@schorschii->settings-schema.json->style->options
 msgid "Dark"
-msgstr ""
+msgstr "Tamni"
 
 #. clock@schorschii->settings-schema.json->style->options
 msgid "Light"
-msgstr ""
+msgstr "Svjetli"
 
 #. clock@schorschii->settings-schema.json->style->options
 msgid "Custom"
-msgstr ""
+msgstr "Prilagođen"
 
 #. clock@schorschii->settings-schema.json->head4->description
 msgid "Custom images (available if clock style is set to 'custom')"
 msgstr ""
+"Prilagođene slike (dostupno ako je izgled sata postavljen na 'Prilagođen')"
 
 #. clock@schorschii->settings-schema.json->desklet-size->description
 msgid "Desklet size"
-msgstr ""
+msgstr "Veličina deskleta"
 
 #. clock@schorschii->settings-schema.json->desklet-size->tooltip
 msgid "Increase or decrease the size of the clock."
-msgstr ""
+msgstr "Povećajte ili smanjite veličinu sata."
 
 #. clock@schorschii->settings-schema.json->desklet-size->units
 msgid "pixels"
-msgstr ""
+msgstr "pikseli"
 
 #. clock@schorschii->settings-schema.json->head2->description
 msgid "Custom desklet label (only visible if decorations are enabled)"
-msgstr ""
+msgstr "Prilagođeni naslov deskleta (samo je vidljiv ako su ukrasi omogućeni)"
 
 #. clock@schorschii->settings-schema.json->head1->description
 msgid "Visual"
-msgstr ""
+msgstr "Izgled"
 
 #. clock@schorschii->settings-schema.json->smooth-seconds-hand->description
 msgid "Smooth second hand"
@@ -81,92 +84,103 @@ msgstr ""
 
 #. clock@schorschii->settings-schema.json->head0->description
 msgid "Settings for clock@schorschii"
-msgstr ""
+msgstr "Postavke za clock@schorschii"
 
 #. clock@schorschii->settings-schema.json->img-h->description
 msgid "Hour hand"
-msgstr ""
+msgstr "Kazaljka sata"
 
 #. clock@schorschii->settings-schema.json->img-h->tooltip
 msgid ""
 "Choose your own image for the hour hand. Should be as big as the background "
 "image."
 msgstr ""
+"Odaberite svoju vlastitu sliku za kazaljku sata. Trebala bi biti velika kao "
+"pozadinska slika."
 
 #. clock@schorschii->settings-schema.json->hide-decorations->description
 msgid "Hide decorations"
-msgstr ""
+msgstr "Prikaži ukrase"
 
 #. clock@schorschii->settings-schema.json->img-m->description
 msgid "Minute hand"
-msgstr ""
+msgstr "Kazaljka minuta"
 
 #. clock@schorschii->settings-schema.json->img-m->tooltip
 msgid ""
 "Choose your own image for the minute hand. Should be as big as the "
 "background image."
 msgstr ""
+"Odaberite svoju vlastitu sliku za kazaljku minuta. Trebala bi biti velika "
+"kao pozadinska slika."
 
 #. clock@schorschii->settings-schema.json->img-bg->description
 msgid "Background"
-msgstr ""
+msgstr "Pozadina"
 
 #. clock@schorschii->settings-schema.json->img-bg->tooltip
 msgid "Choose your own background image."
-msgstr ""
+msgstr "Odaberite svoju vlastitu pozadinsku sliku."
 
 #. clock@schorschii->settings-schema.json->img-s->description
 msgid "Seconds hand"
-msgstr ""
+msgstr "Kazaljka sekundi"
 
 #. clock@schorschii->settings-schema.json->img-s->tooltip
 msgid ""
 "Choose your own image for the seconds hand. Should be as big as the "
 "background image."
 msgstr ""
+"Odaberite svoju vlastitu sliku za kazaljku sekundi. Trebala bi biti velika "
+"kao pozadinska slika."
 
 #. clock@schorschii->settings-schema.json->custom-tz->description
 msgid "Custom time zone"
-msgstr ""
+msgstr "Prilagođena vremenska zona"
 
 #. clock@schorschii->settings-schema.json->custom-tz->tooltip
 msgid "Enter your custom timezone here."
-msgstr ""
+msgstr "Upišite ovdje vašu prilagođenu vremensku zonu."
 
 #. clock@schorschii->settings-schema.json->show-seconds-hand->description
 msgid "Show seconds hand"
-msgstr ""
+msgstr "Prikaži kazaljku sekundi"
 
 #. clock@schorschii->settings-schema.json->show-seconds-hand->tooltip
 msgid "Show or hide the seconds hand."
-msgstr ""
+msgstr "Prikaži ili sakrij kazaljku sekundi."
 
 #. clock@schorschii->settings-schema.json->use-custom-tz->description
 msgid "Use a custom timezone"
-msgstr ""
+msgstr "Koristi prilagođenu vremensku zonu"
 
 #. clock@schorschii->settings-schema.json->use-custom-tz->tooltip
 msgid ""
 "Checking this box allows you to set a custom timezone in the field below."
 msgstr ""
+"Ovaj odabir omogućuje vam postavljanje prilagođene vremenske zone u polju "
+"ispod."
 
 #. clock@schorschii->settings-schema.json->use-custom-label->description
 msgid "Use a custom desklet label"
-msgstr ""
+msgstr "Koristi prilagođeni naslov deskleta"
 
 #. clock@schorschii->settings-schema.json->use-custom-label->tooltip
 msgid "Checking this box allows you to set a custom label in the field below."
 msgstr ""
+"Ovaj odabir omogućuje vam postavljanje prilagođenog naslova u polju ispod."
 
 #. clock@schorschii->settings-schema.json->custom-label->description
 msgid "Custom desklet label"
-msgstr ""
+msgstr "Prilagođeni naslov deskleta"
 
 #. clock@schorschii->settings-schema.json->custom-label->tooltip
 msgid ""
 "Set your custom label here, e.g. for multiple timezones. This field is "
 "unavailable unless the checkbox above is enabled."
 msgstr ""
+"Postavite svoj prilagođeni naslov ovdje, npr. za višestruke vremenske zone. "
+"Ovo polje je nedostupno osim ako je odabrana mogućnost iznad."
 
 #. clock@schorschii->settings-schema.json->smooth-minutes-hand->description
 msgid "Smooth minute hand"
@@ -182,7 +196,22 @@ msgstr ""
 msgid ""
 "A scaleable analog clock desklet with smooth hands and free choice of images."
 msgstr ""
+"Prilagodljivi desklet analognog sata s glatkim kazaljkama i slobodnim "
+"odabirom slika."
 
 #. clock@schorschii->metadata.json->name
 msgid "Analog Chronometer"
-msgstr ""
+msgstr "Analogni kronometar"
+
+#~ msgid "Custom images"
+#~ msgstr "Prilagođena slika"
+
+#~ msgid "Smooth hands"
+#~ msgstr "Glatke kazaljke"
+
+#~ msgid ""
+#~ "Use smooth animation for hour, minute and seconds hand instead of "
+#~ "refreshing it only every second."
+#~ msgstr ""
+#~ "Koristi glatku animaciju za kazaljke sata, minuta i sekundi umjesto "
+#~ "osvježavanja svake sekunde."

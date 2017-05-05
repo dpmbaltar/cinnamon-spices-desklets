@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bbcwx\n"
 "Report-Msgid-Bugs-To: chris@oak-wood.co.uk\n"
 "POT-Creation-Date: 2015-12-14 18:52+0000\n"
-"PO-Revision-Date: 2015-12-16 15:48+0000\n"
+"PO-Revision-Date: 2017-05-04 17:33+0200\n"
 "Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "Language: hr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2016-08-01 19:04+0000\n"
-"X-Generator: Launchpad (build 18169)\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #. # Days of the week
 #: desklet.js:103
@@ -608,7 +608,7 @@ msgstr "Odaberite za prikaz trenutne vlažnosti"
 
 #. bbcwx@oak-wood.co.uk->settings-schema.json->refreshtime->description
 msgid "Refresh forecast every"
-msgstr "Osježi prognozu svakih"
+msgstr "Osvježi prognozu svakih"
 
 #. bbcwx@oak-wood.co.uk->settings-schema.json->refreshtime->tooltip
 msgid ""

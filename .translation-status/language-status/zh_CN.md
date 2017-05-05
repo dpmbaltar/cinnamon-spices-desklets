@@ -11,7 +11,7 @@ Desklets UUID | Length | Status | Untranslated
 [binaryclockdesklet@entelechy](../desklets-status/binaryclockdesklet@entelechy/README.md) | [12](../desklets-status/binaryclockdesklet@entelechy/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
 [calculator@scollins](../desklets-status/calculator@scollins/README.md) | [26](../desklets-status/calculator@scollins/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
 [calendar@schorschii](../desklets-status/calendar@schorschii/README.md) | [51](../desklets-status/calendar@schorschii/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
-[clock@schorschii](../desklets-status/clock@schorschii/README.md) | [37](../desklets-status/clock@schorschii/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
+[clock@schorschii](../desklets-status/clock@schorschii/README.md) | [39](../desklets-status/clock@schorschii/po/zh_CN.po) | ![97%](http://progressed.io/bar/97) | [1](../desklets-status/clock@schorschii/untranslated-po/zh_CN.md)
 [clockTow@armandobs14](../desklets-status/clockTow@armandobs14/README.md) | [3](../desklets-status/clockTow@armandobs14/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
 [commandOfTheDay@logg](../desklets-status/commandOfTheDay@logg/README.md) | [6](../desklets-status/commandOfTheDay@logg/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
 [devTools@scollins](../desklets-status/devTools@scollins/README.md) | [103](../desklets-status/devTools@scollins/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
@@ -29,4 +29,4 @@ Desklets UUID | Length | Status | Untranslated
 [TimeAndDate@nightflame](../desklets-status/TimeAndDate@nightflame/README.md) | [5](../desklets-status/TimeAndDate@nightflame/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
 [WeatherUnderground@nightflame](../desklets-status/WeatherUnderground@nightflame/README.md) | [10](../desklets-status/WeatherUnderground@nightflame/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
 [xkcd@rjanja](../desklets-status/xkcd@rjanja/README.md) | [5](../desklets-status/xkcd@rjanja/po/zh_CN.po) | ![100%](http://progressed.io/bar/100) |  0
-**Overall statistics:** | **700** | ![100%](http://progressed.io/bar/100) | **0**
+**Overall statistics:** | **702** | ![100%](http://progressed.io/bar/100) | **1**
