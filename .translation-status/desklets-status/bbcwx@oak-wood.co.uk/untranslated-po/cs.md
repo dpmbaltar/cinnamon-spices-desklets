@@ -7,128 +7,127 @@
        4	The source of the text displayed as the current location. Yahoo! and Google may offer city names in other languages
        5	Google
        6	Data service
-       7	Yahoo!
-       8	Enable experimental features
-       9	Check this to enable experimental and buggy features
-      10	Current humidity
-      11	Check to display the current humidity
-      12	Refresh forecast every
-      13	Period between refreshing forecasts. Note that not all services support lower refresh times
-      14	minutes
-      15	Manually override displayed location
-      16	Set your city name manually.
-      17	Current wind
-      18	Check to display the current wind
-      19	Temperature measurement unit
-      20	Measurement units used to display temperature
-      21	Fahrenheit
-      22	Celsius
-      23	Text color
-      24	Click the button to select a new text color
-      25	Show border
-      26	Check this to turn border on/off
-      27	Layout
-      28	Set the overall layout of the desklet
-      29	Horizontal
-      30	Vertical
-      31	Background color
-      32	Click the button to select a new background color
-      33	Anchor desklet by
-      34	Select the point on the desklet to which it is anchored. This point will remain static as the desklet grows and shrinks
-      35	Bottom center
-      36	Default
-      37	Left center
-      38	Top right
-      39	Bottom left
-      40	Top left
-      41	Right center
-      42	Bottom right
-      43	Top center
-      44	Weather configuration
-      45	Pressure measurement unit
-      46	Measurement units used to display atmospheric pressure
-      47	in (Hg)
-      48	mm (Hg)
-      49	kPa
-      50	mb
-      51	Desklet style
-      52	Forecast maximum
-      53	Check to display the forecast maximum temperature
-      54	Wind speed measurement unit
-      55	Measurement units used to display wind speed
-      56	knots
-      57	m/s
-      58	km/h
-      59	mph
-      60	Country
-      61	Check to display the country
-      62	Current pressure
-      63	Check to display the current pressure
-      64	Forecast wind direction
-      65	Check to display the forecast wind direction
-      66	Current 'feels like'
-      67	Check to display the current apparent temperature
-      68	Forecast humidity
-      69	Check to display the forecast humidity
-      70	Show forecast for
-      71	The number of days of forecast to display. Note that not all services support all values
-      72	days
-      73	Border color
-      74	Select the color for the border. Only available if the 'Border' checkbox is enabled
-      75	Forecast wind speed
-      76	Check to display the forecast wind speed
-      77	Current weather and icon
-      78	Check to display the current weather and large icon
-      79	Override desktop theme (enables the settings below)
-      80	Check this to override the desktop theme and configure the appearance manually
-      81	Bold city name
-      82	Check to display the city name in bold
-      83	Current visibility
-      84	Check to display the current visibility
-      85	Forecast minimum
-      86	Check to display the forecast minimum temperature
-      87	Location display settings
-      88	API key
-      89	Required for some services only. Enter your API key for your chosen service
-      90	Select the data service you wish to use
-      91	Forecast.io (requires API key)
-      92	Wunderground (requires API key)
-      93	meteoblue (requires API key)
-      94	BBC
-      95	Yahoo
-      96	weather.com (deprecated)
-      97	World Weather Online (requires API key)
-      98	Open Weather Map
-      99	Forecast pressure
-     100	Check to display the forecast pressure
-     101	Zoom by
-     102	Change the size of the desklet
-     103	times
-     104	Icon style
-     105	Select the style for the weather icons
-     106	Flat white
-     107	Novacon
-     108	VClouds
-     109	Colorful
-     110	Light
-     111	Meteocons 2
-     112	Flat black
-     113	Meteocons 1
-     114	Dark
-     115	Sketchy
-     116	Flat colorful
-     117	User defined
-     118	Weezle
-     119	Location
-     120	Set your location here
-     121	Corner radius
-     122	Radius for rounding the desklet's corners
-     123	px
-     124	Transparency
-     125	Set the transparency of the desklet
-     126	Optional items to display (not all options are supported by all services)
-     127	Experimental and buggy features (read documentation!!)
-     128	Border width
-     129	Select the width of the border. Only available if the 'Border' checkbox is enabled
-     130	Weather Desklet
-     131	Display the weather from several web services on your desktop
+       7	Enable experimental features
+       8	Check this to enable experimental and buggy features
+       9	Current humidity
+      10	Check to display the current humidity
+      11	Refresh forecast every
+      12	Period between refreshing forecasts. Note that not all services support lower refresh times
+      13	minutes
+      14	Manually override displayed location
+      15	Set your city name manually.
+      16	Current wind
+      17	Check to display the current wind
+      18	Temperature measurement unit
+      19	Measurement units used to display temperature
+      20	Fahrenheit
+      21	Celsius
+      22	Text color
+      23	Click the button to select a new text color
+      24	Show border
+      25	Check this to turn border on/off
+      26	Layout
+      27	Set the overall layout of the desklet
+      28	Horizontal
+      29	Vertical
+      30	Background color
+      31	Click the button to select a new background color
+      32	Anchor desklet by
+      33	Select the point on the desklet to which it is anchored. This point will remain static as the desklet grows and shrinks
+      34	Bottom center
+      35	Default
+      36	Left center
+      37	Top right
+      38	Bottom left
+      39	Top left
+      40	Right center
+      41	Bottom right
+      42	Top center
+      43	Weather configuration
+      44	Pressure measurement unit
+      45	Measurement units used to display atmospheric pressure
+      46	in (Hg)
+      47	mm (Hg)
+      48	kPa
+      49	mb
+      50	Desklet style
+      51	Forecast maximum
+      52	Check to display the forecast maximum temperature
+      53	Wind speed measurement unit
+      54	Measurement units used to display wind speed
+      55	knots
+      56	m/s
+      57	km/h
+      58	mph
+      59	Country
+      60	Check to display the country
+      61	Current pressure
+      62	Check to display the current pressure
+      63	Forecast wind direction
+      64	Check to display the forecast wind direction
+      65	Current 'feels like'
+      66	Check to display the current apparent temperature
+      67	Forecast humidity
+      68	Check to display the forecast humidity
+      69	Show forecast for
+      70	The number of days of forecast to display. Note that not all services support all values
+      71	days
+      72	Border color
+      73	Select the color for the border. Only available if the 'Border' checkbox is enabled
+      74	Forecast wind speed
+      75	Check to display the forecast wind speed
+      76	Current weather and icon
+      77	Check to display the current weather and large icon
+      78	Override desktop theme (enables the settings below)
+      79	Check this to override the desktop theme and configure the appearance manually
+      80	Bold city name
+      81	Check to display the city name in bold
+      82	Current visibility
+      83	Check to display the current visibility
+      84	Forecast minimum
+      85	Check to display the forecast minimum temperature
+      86	Location display settings
+      87	API key
+      88	Required for some services only. Enter your API key for your chosen service
+      89	Select the data service you wish to use
+      90	Forecast.io (requires API key)
+      91	Wunderground (requires API key)
+      92	meteoblue (requires API key)
+      93	BBC
+      94	weather.com (deprecated)
+      95	World Weather Online (requires API key)
+      96	World Weather Online Premium (requires API key)
+      97	Open Weather Map
+      98	Forecast pressure
+      99	Check to display the forecast pressure
+     100	Zoom by
+     101	Change the size of the desklet
+     102	times
+     103	Icon style
+     104	Select the style for the weather icons
+     105	Flat white
+     106	Novacon
+     107	VClouds
+     108	Colorful
+     109	Light
+     110	Meteocons 2
+     111	Flat black
+     112	Meteocons 1
+     113	Dark
+     114	Sketchy
+     115	Flat colorful
+     116	User defined
+     117	Weezle
+     118	Location
+     119	Set your location here
+     120	Corner radius
+     121	Radius for rounding the desklet's corners
+     122	px
+     123	Transparency
+     124	Set the transparency of the desklet
+     125	Optional items to display (not all options are supported by all services)
+     126	Experimental and buggy features (read documentation!!)
+     127	Border width
+     128	Select the width of the border. Only available if the 'Border' checkbox is enabled
+     129	Weather Desklet
+     130	Display the weather from several web services on your desktop

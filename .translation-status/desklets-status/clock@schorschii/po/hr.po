@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: clock@schorschii\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-04 18:03+0100\n"
-"PO-Revision-Date: 2017-05-05 13:41+0200\n"
+"POT-Creation-Date: 2017-05-08 14:32+0200\n"
+"PO-Revision-Date: 2017-05-08 14:35+0200\n"
 "Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: \n"
 "Language: hr\n"
@@ -33,7 +33,7 @@ msgstr "Izgled sata"
 
 #. clock@schorschii->settings-schema.json->style->tooltip
 msgid "Select the background graphic you would like to use."
-msgstr ""
+msgstr "Odaberite grafiku pozadinu koju želite koristiti."
 
 #. clock@schorschii->settings-schema.json->style->options
 msgid "Dark"
@@ -74,13 +74,15 @@ msgstr "Izgled"
 
 #. clock@schorschii->settings-schema.json->smooth-seconds-hand->description
 msgid "Smooth second hand"
-msgstr ""
+msgstr "Glatko pomicanje kazaljke sekunde"
 
 #. clock@schorschii->settings-schema.json->smooth-seconds-hand->tooltip
 msgid ""
 "Use smooth animation for seconds hand instead of refreshing it only every "
 "second."
 msgstr ""
+"Koristi glatku animaciju za kazaljku sekundi umjesto osvježavanja svake "
+"sekunde."
 
 #. clock@schorschii->settings-schema.json->head0->description
 msgid "Settings for clock@schorschii"
@@ -184,13 +186,15 @@ msgstr ""
 
 #. clock@schorschii->settings-schema.json->smooth-minutes-hand->description
 msgid "Smooth minute hand"
-msgstr ""
+msgstr "Glatko pomicanje kazaljke minuta"
 
 #. clock@schorschii->settings-schema.json->smooth-minutes-hand->tooltip
 msgid ""
 "Use smooth animation for minute hand instead of moving it only once per "
 "minute."
 msgstr ""
+"Koristi glatku animaciju za kazaljku minuta umjesto osvježavanja svake "
+"sekunde."
 
 #. clock@schorschii->metadata.json->description
 msgid ""

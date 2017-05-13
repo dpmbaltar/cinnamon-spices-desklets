@@ -83,29 +83,30 @@
       80	BBC
       81	weather.com (deprecated)
       82	World Weather Online (requires API key)
-      83	Open Weather Map
-      84	Forecast pressure
-      85	Check to display the forecast pressure
-      86	Zoom by
-      87	Change the size of the desklet
-      88	times
-      89	Select the style for the weather icons
-      90	Flat white
-      91	Novacon
-      92	VClouds
-      93	Light
-      94	Meteocons 2
-      95	Flat black
-      96	Meteocons 1
-      97	Sketchy
-      98	Flat colorful
-      99	Weezle
-     100	Set your location here
-     101	Radius for rounding the desklet's corners
-     102	px
-     103	Set the transparency of the desklet
-     104	Optional items to display (not all options are supported by all services)
-     105	Experimental and buggy features (read documentation!!)
-     106	Select the width of the border. Only available if the 'Border' checkbox is enabled
-     107	Weather Desklet
-     108	Display the weather from several web services on your desktop
+      83	World Weather Online Premium (requires API key)
+      84	Open Weather Map
+      85	Forecast pressure
+      86	Check to display the forecast pressure
+      87	Zoom by
+      88	Change the size of the desklet
+      89	times
+      90	Select the style for the weather icons
+      91	Flat white
+      92	Novacon
+      93	VClouds
+      94	Light
+      95	Meteocons 2
+      96	Flat black
+      97	Meteocons 1
+      98	Sketchy
+      99	Flat colorful
+     100	Weezle
+     101	Set your location here
+     102	Radius for rounding the desklet's corners
+     103	px
+     104	Set the transparency of the desklet
+     105	Optional items to display (not all options are supported by all services)
+     106	Experimental and buggy features (read documentation!!)
+     107	Select the width of the border. Only available if the 'Border' checkbox is enabled
+     108	Weather Desklet
+     109	Display the weather from several web services on your desktop

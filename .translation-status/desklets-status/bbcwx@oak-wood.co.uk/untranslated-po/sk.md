@@ -12,12 +12,11 @@
        9	Select the data service you wish to use
       10	meteoblue (requires API key)
       11	BBC
-      12	Yahoo
-      13	Novacon
-      14	VClouds
-      15	Meteocons 2
-      16	Meteocons 1
-      17	Sketchy
-      18	Flat colorful
-      19	Weezle
-      20	Weather Desklet
+      12	Novacon
+      13	VClouds
+      14	Meteocons 2
+      15	Meteocons 1
+      16	Sketchy
+      17	Flat colorful
+      18	Weezle
+      19	Weather Desklet
