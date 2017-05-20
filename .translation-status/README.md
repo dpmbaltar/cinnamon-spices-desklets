@@ -26,7 +26,7 @@ Language | ID | Status | Untranslated
 [Polish](language-status/pl.md) | pl |  ![35%](http://progressed.io/bar/35) | 453
 [Portuguese](language-status/pt.md) | pt |  ![36%](http://progressed.io/bar/36) | 449
 [Romanian](language-status/ro.md) | ro |  ![35%](http://progressed.io/bar/35) | 453
-[Russian](language-status/ru.md) | ru |  ![36%](http://progressed.io/bar/36) | 450
+[Russian](language-status/ru.md) | ru |  ![38%](http://progressed.io/bar/38) | 433
 [Slovak](language-status/sk.md) | sk |  ![33%](http://progressed.io/bar/33) | 468
 [Slovenian](language-status/sl.md) | sl |  ![35%](http://progressed.io/bar/35) | 454
 [Spanish](language-status/es.md) | es |  ![36%](http://progressed.io/bar/36) | 449
