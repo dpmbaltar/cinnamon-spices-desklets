@@ -1,6 +1,7 @@
 const Cinnamon = imports.gi.Cinnamon;
 const Desklet = imports.ui.desklet;
 const Gettext = imports.gettext;
+const Gio = imports.gi.Gio;
 const GLib = imports.gi.GLib;
 const Lang = imports.lang;
 const Mainloop = imports.mainloop;
@@ -41,14 +42,14 @@ MyDesklet.prototype = {
             this.settings = new Settings.DeskletSettings(
                 this, this.metadata["uuid"], this.instance_id);
 
-            this.settings.bindProperty(Settings.BindingDirection.IN, "file", "file", this.on_setting_changed, null);
-            this.settings.bindProperty(Settings.BindingDirection.IN, "delay", "delay", this.on_setting_changed, null);
-            this.settings.bindProperty(Settings.BindingDirection.IN, "font-size", "fontSize", this.on_font_setting_changed, null);
-            this.settings.bindProperty(Settings.BindingDirection.IN, "text-color", "fontColor", this.on_font_setting_changed, null);
-            this.settings.bindProperty(Settings.BindingDirection.IN, "horizontal-shadow", "horShadow", this.on_font_setting_changed, null);
-            this.settings.bindProperty(Settings.BindingDirection.IN, "vertical-shadow", "vertShadow", this.on_font_setting_changed, null);
-            this.settings.bindProperty(Settings.BindingDirection.IN, "shadow-blur", "shadowBlur", this.on_font_setting_changed, null);
-            this.settings.bindProperty(Settings.BindingDirection.IN, "shadow-color", "shadowColor", this.on_font_setting_changed, null);
+            this.settings.bind("file", "file", this.on_setting_changed);
+            this.settings.bind("delay", "delay", this.on_setting_changed);
+            this.settings.bind("font-size", "fontSize", this.on_font_setting_changed);
+            this.settings.bind("text-color", "fontColor", this.on_font_setting_changed);
+            this.settings.bind("horizontal-shadow", "horShadow", this.on_font_setting_changed);
+            this.settings.bind("vertical-shadow", "vertShadow", this.on_font_setting_changed);
+            this.settings.bind("shadow-blur", "shadowBlur", this.on_font_setting_changed);
+            this.settings.bind("shadow-color", "shadowColor", this.on_font_setting_changed);
 
             this._menu.addAction(_("Copy"), Lang.bind(this, function() {
                 cb = St.Clipboard.get_default();
@@ -73,9 +74,8 @@ MyDesklet.prototype = {
         if (this.update_id > 0) {
             Mainloop.source_remove(this.update_id);
         }
-       
+
         this.update_id = Mainloop.timeout_add_seconds(this.delay*60, Lang.bind(this, this._update));
-        this.file = this.file.replace('~', GLib.get_home_dir());
         this._update();
         
         this.updateInProgress = false;
@@ -108,7 +108,20 @@ MyDesklet.prototype = {
      * Call fortune to obtain a random quote from the input file
      **/
     _getNewQuote: function() {
-        Util.spawn_async(["fortune", this.file], Lang.bind(this, this._setNewQuote));
+        // Make sure the input file exists
+        if (!this.file) {
+            global.logError("Quote file is null.");
+            this._setNewQuote("");
+            return;
+        }
+
+        let quote_file_uri = Gio.File.new_for_uri(this.file);
+        if (!quote_file_uri.query_exists(null)) {
+            global.logError("Quote file not found: " + this.file);
+        }
+
+        Util.spawn_async(["fortune", quote_file_uri.get_path()],
+            Lang.bind(this, this._setNewQuote));
     },
 
     /**
